@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container-main-filter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.central-box{
+    padding: 3rem;
+    margin-top: 1rem;
+    text-align:center;
+    background-color: #090057c7;
+    width: 80%;
+    border-radius: 5px;
+    box-shadow: 3px 3px 20px #090057c7;
+    margin-bottom: 2rem;
+}
+
+.select-area-genere{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 80%;
+    border-radius: 5px;
+    height: 1.5rem;
+    cursor: pointer;
+}
+
+.button-recomend{
+    padding: 1rem;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.button-recomend:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    box-shadow: 3px 3px 20px black;
+}

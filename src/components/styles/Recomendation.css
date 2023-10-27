@@ -1,0 +1,37 @@
+
+.recomendation-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-container{
+    padding: 3rem;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #090057c7;
+    width: 80%;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 3px 3px 20px #090057c7;
+
+}
+
+.recomendation-title{
+    margin-bottom: 1rem;
+}
+
+.portait{
+    width: 15rem;
+}
+
+.video-container{
+    margin-top: 1rem;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+}

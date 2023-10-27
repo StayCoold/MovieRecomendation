@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    box-shadow: 3px 3px 20px #090057c7;
+    background-color: #090057c7;
+}
+
+.logo {
+    width: 75%;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+.image-logo{
+    width: 100%;
+}
